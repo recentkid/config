@@ -1,9 +1,7 @@
-consolidated configuration directory
+general configurations
 ====================================
-
-includes
-------------------------------------
 
 - .vimrc
 - .bashrc
 - .tmux.conf
+- template.xml (eclipse code template)
